@@ -1,0 +1,22 @@
+Input Video
+    |
+    V
+Temporal Filtering (Bandpass Filter)
+    |
+    V
+Spatial Smoothing (Gaussian Filter)
+    |
+    V
+Gaussian Pyramid Construction
+    |
+    V
+Motion Estimation (Frame Differences)
+    |
+    V
+Motion Magnification (Amplify Motion)
+    |
+    V
+Reconstruction of Amplified Frames
+    |
+    V
+Display or Save Results
