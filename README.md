@@ -1,4 +1,4 @@
-# Visual-Motion-Magnification
+# Video-Motion-Magnification
 Welcome to the Video Motion Magnification (VMM) project! This project focuses on developing a powerful tool for magnifying subtle motions in videos, providing valuable insights into various applications.</br>
 
 <h2>Project Overview:</h2>
